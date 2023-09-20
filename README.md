@@ -2,7 +2,7 @@
 
 ## Exercises done whilst at University of York - Module Machine Learning and Artificial Intelligence 
 
-Challenge Activity 1: Search aaaaaa
+Challenge Activity 1: Search
 
 This is an optional activity.
 
