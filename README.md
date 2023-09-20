@@ -2,7 +2,10 @@
 
 ## Exercises done whilst at University of York - Module Machine Learning and Artificial Intelligence 
 
-Challenge Activity 1: Search This is an optional activity.
+Challenge Activity 1: Search 
+
+This is an optional activity.
+
 AI Search for Autonomous Vehicle Navigation
 You work as an engineer for the entrepreneur Melon Husk in his business that makes electric semi-autonomous cars. The eventual goal of the business is to create an entirely autonomous vehicle that is able to drive itself from one place to another safely and avoid traffic jams. Your task is one part of the overall goal: to find efficient routes through cities that avoid traffic jams. Which algorithm should you use?
 The prototype system will be tested in Manhattan. The streets of Manhattan are famously laid out on a grid. Suppose we have a grid with 15 streets running North-South, and 15 streets running East-West, as in the picture below. The distance between two adjacent intersections is the same throughout the grid.
